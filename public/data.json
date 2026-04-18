@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "React Basics",
+    "category": "Web",
+    "price": 49,
+    "rating": 4.5,
+    "desc": "Learn fundamentals of React step by step.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1fd-o3TUEb572k_EMh3FFpP95yQcEoLzMA&s"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning A-Z",
+    "category": "AI",
+    "price": 79,
+    "rating": 4.8,
+    "desc": "Complete ML course with projects.",
+    "img": "https://cdn.shopaccino.com/igmguru/products/machine-learning-training-igmguru_1499895199_l.jpg?v=546"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design",
+    "category": "Design",
+    "price": 39,
+    "rating": 4.2,
+    "desc": "Design beautiful user interfaces.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRHA4Xb46HiWYXd5mkNlN6_0KRIu7mi0iYg&s"
+  },
+  {
+    "id": 4,
+    "title": "Node.js Mastery",
+    "category": "Web",
+    "price": 59,
+    "rating": 4.6,
+    "desc": "Backend development with Node.js.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsDImw4AMa4RigtzDYlJDQKUJk02WTPmKgg&s"
+  },
+  {
+    "id": 5,
+    "title": "Data Science Bootcamp",
+    "category": "AI",
+    "price": 89,
+    "rating": 4.7,
+    "desc": "Become a data scientist.",
+    "img": "https://coursecentral.in/wp-content/uploads/2025/04/Data-Science.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Graphic Design",
+    "category": "Design",
+    "price": 29,
+    "rating": 4.1,
+    "desc": "Master design tools easily.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWY01B6RAqnys2FwkcAcqjvV9hGkvrTG8T-g&s"
+  }
+]
